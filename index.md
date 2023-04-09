@@ -8,3 +8,8 @@
 javac Main.java
 java Main
 ```
+
+- [ ] item 1
+- [ ] item 2
+- [ ] item 3
+- [X] Like org syntax better
